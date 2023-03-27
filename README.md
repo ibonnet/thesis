@@ -1,5 +1,5 @@
 # Visualizing Venezuela's Revived Aviation Sector through Flight Tracking
-This repository contains code and data used to track flights in Venezuela and visualize their patterns as part of my master's thesis at Parsons School of Design at The New School. The goal of this project is to explore the relationship between flight patterns and the geopolitical landscape of Venezuela.
+This repository contains code and data used to track flights in Venezuela and visualize their patterns as part of my <a href="https://www.newschool.edu/parsons/ms-data-visualization/">master's thesis in Data Visualization at Parsons School of Design</a>. The goal of this project is to explore the relationship between flight patterns and the geopolitical landscape of Venezuela.
 
 ## Data Sources
 The flight data used in this project is obtained from public sources such as the OpenFlights and FlightAware. The data covers a period of several years and includes information such as flight paths, departure and arrival times.
