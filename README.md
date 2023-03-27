@@ -13,6 +13,11 @@ The visualizations included in this repository show the flight patterns of vario
 ## Files
 The repository contains the following files:
 
+### Images
+<li><a href="https://images.squarespace-cdn.com/content/v1/5d38648992abb10001ddf60c/8c6e17bc-e748-46c2-8dc2-898c45c41c81/VenezuelaAirport.jpg?format=2500w">Maiquetía "Simón Bolívar" International Airport, Nov. 2021</a></li>
+<li></li>
+<li></li>
+
 ## Results
 The results of this project provide insight into the geopolitical landscape of Venezuela and its impact on air travel. The visualizations reveal patterns in airline activity that correspond to political events and economic trends.
 
