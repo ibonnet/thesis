@@ -10,6 +10,9 @@ The code used to process the flight data and generate the visualizations is writ
 ## Visualizations
 The visualizations included in this repository show the flight patterns of various airlines in Venezuela, as well as their frequency and duration. The visualizations are interactive and can be explored using the Plotly platform.
 
+## Files
+The repository contains the following files:
+
 ## Results
 The results of this project provide insight into the geopolitical landscape of Venezuela and its impact on air travel. The visualizations reveal patterns in airline activity that correspond to political events and economic trends.
 
