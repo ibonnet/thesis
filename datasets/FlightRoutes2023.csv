@@ -1,0 +1,54 @@
+FROM-COUNTRY,FROM-CITY,TO-COUNTRY,TO-CITY,FLIGHT,AIRLINE
+Bolivia,Santa Cruz,Venezuela,Caracas,V03509,Conviasa
+Bolivia,Santa Cruz,Venezuela,Caracas,V0505,Conviasa
+Brazil,Manaus,Venezuela,Puerto Ordaz,V04930,Conviasa
+Brazil,Manaus,Venezuela,Puerto Ordaz,V04931,Conviasa
+Chile,Santiago,Venezuela,Caracas,ES870,Estelar Latinoamerica
+Colombia,Bogota,Venezuela,Caracas,IB9701,Iberia
+Colombia,Bogota,Venezuela,Caracas,QL2981,Laser Airlines
+Colombia,Bogota,Venezuela,Caracas,T9723,Turpial Airlines
+Colombia,Bogota,Venezuela,Caracas,T98821,Turpial Airlines
+Colombia,Bogota,Venezuela,Valencia,T98831,Turpial Airlines
+Colombia,Bogota,Venezuela,Caracas,P57066,Wingo
+Cuba,Havana,Venezuela,Caracas,V03497,Conviasa
+Cuba,Havana,Venezuela,Caracas,V03499,Conviasa
+Cuba,Havana,Venezuela,Las Piedras,V04927,Conviasa
+Cuba,Havana,Venezuela,Porlamar,CU318,Cubana
+Cuba,Havana,Venezuela,Caracas,TK183,Turkish Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,9V1215,Avior Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,QL2967,Laser Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,QL2969,Laser Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,QL9963,Laser Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,QL9965,Laser Airlines
+Dominican Republic,Santo Domingo,Venezuela,Maracaibo,5R1301,Rutaca Airlines
+Dominican Republic,Santo Domingo,Venezuela,Barquisimeto,5R1501,Rutaca Airlines
+Dominican Republic,Punta Cana,Venezuela,Caracas,5R1700,Rutaca Airlines
+Dominican Republic,Punta Cana,Venezuela,Caracas,5R1701,Rutaca Airlines
+Dominican Republic,Santo Domingo,Venezuela,Caracas,DO710,SKYhigh Dominicana
+Dominican Republic,Punta Cana,Venezuela,Valencia,T9314,Turpial Airlines
+Dominican Republic,Santo Domingo,Venezuela,Valencia,T96401,Turpial Airlines
+Dominican Republic,Punta Cana,Venezuela,Valencia,T98609,Turpial Airlines
+Dominican Republic,Santo Domingo,Venezuela,Valencia,T9867,Turpial Airlines
+Spain,Madrid,Venezuela,Caracas,UX71,Air Europa
+Spain,Madrid,Venezuela,Caracas,IB6673,Iberia
+Spain,Madrid,Venezuela,Caracas,PU3715,Plus Ultra
+Spain,Madrid,Venezuela,Caracas,PU701,Plus Ultra
+Spain,Tenerife,Venezuela,Caracas,PU711,Plus Ultra
+Mexico,Mexico City,Venezuela,Caracas,V03727,Conviasa
+Mexico,Cancun,Venezuela,Caracas,V03739,Conviasa
+Panama,Panama City,Venezuela,Caracas,CM223,Copa Airlines
+Panama,Panama City,Venezuela,Caracas,CM224,Copa Airlines
+Panama,Panama City,Venezuela,Caracas,CM248,Copa Airlines
+Panama,Panama City,Venezuela,Valencia,CM251,Copa Airlines
+Panama,Panama City,Venezuela,Barcelona,CM328,Copa Airlines
+Panama,Panama City,Venezuela,Maracaibo,CM717,Copa Airlines
+Panama,Panama City,Venezuela,Caracas,QL2951,Laser Airlines
+Panama,Panama City,Venezuela,Valencia,T9821,Turpial Airlines
+Panama,Panama City,Venezuela,Valencia,T9822,Turpial Airlines
+Peru,Lima,Venezuela,Caracas,V03545,Conviasa
+Portugal,Lisbon,Venezuela,Caracas,TP173,TAP Air Portugal
+Rusia,Moscow,Venezuela,Caracas,V03771,Conviasa
+Syria,Damascus,Venezuela,Caracas,V03751,Conviasa
+Turkey,Istanbul,Venezuela,Caracas,TK223,Turkish Airlines
+Saint Vincent and the Grenadines,Kingstown,Venezuela,Caracas,V03723,Conviasa
+15,18,,8,,15
