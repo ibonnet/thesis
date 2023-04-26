@@ -1,38 +1,39 @@
-main {
-    margin: 30px;
+html { 
+    background: url(maiquetia2.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h1 {
+    font-family: "Tiempos Headline", "Georgia Adjusted", Georgia, serif;
 }
 
-header {
-    margin: 70px;
+h2 {
+    font-family: din-2014, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+body {
+    font-family: "Tiempos Text", "Georgia Adjusted", Georgia, serif;
+}
+
+#bg-headline {
+    display: block;
+    margin-top: 21%;
+    margin-left: 26%;
+    margin-right: 22%;
+    font-size: 15.5px;
     text-align: center;
 }
-
-/* .headline {
-    font-size: 70px;
-}
-*/
 
 footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
     font-size: 12px;
     text-align: center;
-}
-
-section {
-    display: block;
-}
-
-/* Background image used from the CCS Airport*/
-.maiquetia {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("");
-    height: 800px;
-    margin-top: -420px;
-    margin-bottom: -300px;
-    margin-right: -380px;
-    margin-left: -370px;
-}
-
-.spacer {
-    height: 300px;
+    color: white;
+    font-family: "Proxima Nova", sans-serif;
 }
