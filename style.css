@@ -22,32 +22,15 @@ section {
 }
 
 /* Background image used from the CCS Airport*/
-.ccs-airport {
+.maiquetia {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5d38648992abb10001ddf60c/8c6e17bc-e748-46c2-8dc2-898c45c41c81/VenezuelaAirport.jpg?format=2500w");
+    background-image: url("");
     height: 800px;
     margin-top: -420px;
     margin-bottom: -300px;
     margin-right: -380px;
     margin-left: -370px;
-}
-
-/* Position text in the middle of the page/image */
-#bg-headline {
-    /* background-color: rgba(0, 0, 0, 0.051); /* Black w/opacity/see-through */
-    color: rgb(255, 255, 255);
-    background-color: black;
-    font-size: 45px;
-    position: sticky; /* Stay fixed */
-    top: 50%;
-    left: 0%;
-    transform: translate(0%, -0%);
-    z-index: 0;
-    width: 950px;
-    padding: 6px;
-    text-align: center;
-    margin-left: -80px;
 }
 
 .spacer {

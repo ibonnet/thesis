@@ -1,0 +1,19 @@
+Country,Flights2021,Flights2022,Flights2023,Flights2021MonthAverage,Flights2022MonthAverage,Flights2023MonthAverage,RegimeType,EIUDemocracyIndex2022,EIUDemocracyIndex2021,EIUDemocracyIndex-2020
+Argentina,0,0,1,0,0,1,Flawed democracy,6.85,6.81,6.95
+Bolivia,1,1,18,0.08333333333,0.08333333333,4.5,Hybrid regime,4.51,4.65,5.08
+Brazil,0,0,6,0,0,1.5,Flawed democracy,6.78,6.86,6.92
+Chile,0,0,5,0,0,1.25,Full democracy,8.22,7.92,8.28
+Colombia,0,13,107,0,1.083333333,26.75,Flawed democracy,6.72,6.48,7.04
+Cuba,52,166,107,4.333333333,13.83333333,26.75,Authoritarian regime,2.65,2.59,2.84
+Dominican Republic,198,645,661,16.5,53.75,165.25,Flawed democracy,6.39,6.45,6.32
+Iran,0,65,33,0,5.416666667,8.25,Authoritarian regime,1.96,1.95,2.2
+Mexico,187,72,95,15.58333333,6,23.75,Hybrid regime,5.25,5.57,6.07
+Panama,1115,1698,811,92.91666667,141.5,202.75,Flawed democracy,6.91,6.85,7.18
+Peru,0,13,8,0,1.083333333,2,Hybrid regime,5.92,6.09,6.53
+Portugal,0,120,69,0,10,17.25,Flawed democracy,7.95,7.82,7.9
+Qatar,0,1,0,0,0.08333333333,0,Authoritarian regime,3.65,3.65,3.24
+Russia,8,27,24,0.6666666667,2.25,6,Authoritarian regime,2.28,3.24,3.31
+Saint Vincent and the Grenadines,0,0,5,0,0,1.25,No data,,,
+Spain,190,321,157,15.83333333,26.75,39.25,Full democracy,8.07,7.94,8.12
+Syria,0,0,12,0,0,3,Authoritarian regime,1.43,1.43,1.43
+Turkey,182,213,57,15.16666667,17.75,14.25,Hybrid regime,4.35,4.35,4.48
