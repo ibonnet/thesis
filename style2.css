@@ -18,6 +18,13 @@ body {
     text-align: center;
 }
 
+#byline {
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    font-family: "Proxima Nova", sans-serif;
+}
+
 footer {
     position: absolute;
     bottom: 0;
@@ -27,4 +34,7 @@ footer {
     text-align: center;
     color: black;
     font-family: "Proxima Nova", sans-serif;
+}
+
+#NoaIG {
 }
