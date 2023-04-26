@@ -37,3 +37,23 @@ footer {
     color: white;
     font-family: "Proxima Nova", sans-serif;
 }
+
+#ButtonStart {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: transparent;
+    transition: transform 0.3s ease-in-out;
+    opacity: 1;
+    margin-left: 45%;
+}
+
+#ButtonStart:hover {
+    transform: rotate(10deg);
+    opacity: .9;
+}
+
+#imgbutton {
+    width: 80px;
+    height: 80px;
+}

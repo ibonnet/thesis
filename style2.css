@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Tiempos Headline", "Georgia Adjusted", Georgia, serif;
+}
+
+h2 {
+    font-family: din-2014, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+body {
+    font-family: "Tiempos Text", "Georgia Adjusted", Georgia, serif;
+    margin: 3%;
+
+}
+
+#bg-headline {
+    display: block;
+    font-size: 15.5px;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    font-size: 12px;
+    text-align: center;
+    color: black;
+    font-family: "Proxima Nova", sans-serif;
+}
