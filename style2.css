@@ -36,5 +36,13 @@ footer {
     font-family: "Proxima Nova", sans-serif;
 }
 
-#NoaIG {
+svg .circlemap {
+    fill:#fff;
+    stroke:#000;
+    stroke-miterlimit:10;
+}
+
+svg .circlemap:hover {
+    opacity: 30%;
+    stroke-miterlimit:10;
 }
