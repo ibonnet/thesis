@@ -7,7 +7,11 @@ h1 {
 }
 
 h2 {
-    font-family: din-2014, Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: "Proxima Nova", sans-serif;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    font-weight: lighter;
 }
 
 body {
@@ -18,7 +22,6 @@ body {
 
 #bg-headline {
     display: block;
-    margin-top: 21%;
     margin-left: 26%;
     margin-right: 22%;
     font-size: 15.5px;
@@ -51,6 +54,10 @@ footer {
 }
 
 #imgbutton {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
+}
+
+.spacer {
+    height: 180px;
 }
