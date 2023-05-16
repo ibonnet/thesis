@@ -1,9 +1,5 @@
 html { 
-    background: url(maiquetia2.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: black 
   }
 
 h1 {
@@ -16,6 +12,8 @@ h2 {
 
 body {
     font-family: "Tiempos Text", "Georgia Adjusted", Georgia, serif;
+    color: white;
+
 }
 
 #bg-headline {
@@ -34,7 +32,6 @@ footer {
     height: 2.5rem;
     font-size: 12px;
     text-align: center;
-    color: white;
     font-family: "Proxima Nova", sans-serif;
 }
 
